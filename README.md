@@ -1,5 +1,5 @@
 
-[My Image](ScreenShot.png)
+[Screenshot of the tables](ScreenShot.png)
 
 # Getting Started with Create React App
 
